@@ -1,3 +1,5 @@
+#Algoritmo de ordenação de vetores utilizando o método bubble-sort
+
 array = [3,5,4,1,2]
 
 def odernaArray(array):
